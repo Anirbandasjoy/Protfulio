@@ -57,8 +57,8 @@ const Home = () => {
                                     <ul className="menu  w-80 h-full  text-base-content">
 
                                         {/*start  */}
-                                        <div className='  bg-[#072830] shadow-2xl sm:p-4 p-0 sm:px-12 px-0  lg:block '>
-                                            <img className='rounded-full mt-3 w-44 h-44 mx-auto' src={profileImage} alt="" />
+                                        <div className='  bg-[#072830] shadow-2xl sm:p-4 p-0 sm:px-12 px-0 h-[100vh]  lg:block '>
+                                            <img className='rounded-full mt-14 w-44 h-44 mx-auto' src={profileImage} alt="" />
                                             <h1 className='text-white text-center mt-4 font-bold text-xl  '>Anirban das joy</h1>
                                             <p className='font-thin text-center text-white text-sm mt-2 '>Frontend Developer</p>
                                             <div className='text-center mt-4'>
